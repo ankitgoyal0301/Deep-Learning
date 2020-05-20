@@ -10,8 +10,6 @@ Currently, it contains the following models:
 
 - Classification_of_digits_from_MNIST
 - Cats vs Dogs 
-
-### Upnext
 - Cats vs Dogs (with Large Dataset)
 
 #### Until then, wait for more new models to come up :smile:
