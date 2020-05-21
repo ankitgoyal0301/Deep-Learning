@@ -12,5 +12,9 @@ Currently, it contains the following models:
 - Cats vs Dogs 
 - Cats vs Dogs (with Large Dataset)
 
-#### Until then, wait for more new models to come up :smile:
+### Up Next:
+- CIFAR-10 (Current Model Behaving Unexpectedly)
+
+
+#### Until then, wait for more new models to come up :wink:
 
