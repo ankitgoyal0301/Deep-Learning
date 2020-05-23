@@ -12,6 +12,7 @@ Currently, it contains the following models:
 - Cats vs Dogs 
 - Cats vs Dogs (with Large Dataset)
 - CIFAR-10
+- Face Detection using an Image (here comes OpenCV :wink:)
 
 
 #### Until then, wait for more new models to come up :wink:
