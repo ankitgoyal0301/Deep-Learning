@@ -39,3 +39,4 @@ while True:
         
 # Release the VideoCapture object
 cap.release()
+cv2.destroyAllWindows()
