@@ -27,8 +27,8 @@ while True:
     cv2.imshow('img', img)
     
     # Stop if escape key is pressed
-    cv2.imshow('img', img)
-    k = cv2.waitKey()
+    #cv2.imshow('img', img)
+    k = cv2.waitKey(1)
     
     # wait for ESC key to exit
     if k == 27:   
