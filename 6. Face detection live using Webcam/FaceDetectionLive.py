@@ -34,9 +34,11 @@ while True:
     # wait for ESC key to exit
     if k == 27:   
         cv2.destroyAllWindows()
+        break
     elif k == ord('s'):                   # wait for 's' key to save and exit
         cv2.imwrite('messigray.png',img)
         cv2.destroyAllWindows()
+        break
         
 # Release the VideoCapture object
 cap.release()
