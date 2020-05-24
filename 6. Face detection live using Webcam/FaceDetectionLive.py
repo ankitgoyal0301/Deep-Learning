@@ -1,3 +1,4 @@
+# importing opencv
 import cv2
 
 # Load the cascade
