@@ -14,6 +14,7 @@ Currently, it contains the following models:
 - CIFAR-10
 - Face Detection using an Image (here comes OpenCV :wink:)
 - Face Detection using Webcam (run program on local machine rather then Colab)
+- Hand Written Digit Recognition (Using SVM)
 
 
 #### Until then, wait for more new models to come up :wink:
