@@ -2,7 +2,7 @@
 import cv2
 
 # Load the cascade
-face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
+face_cascade = cv2.CascadeClassifier(r'D:\Deep Learning\Deep-Learning\6. Face detection live using Webcam\haarcascade_frontalface_default.xml')
 
 # To capture video from webcam. 
 cap = cv2.VideoCapture(0)
@@ -22,7 +22,7 @@ while True:
     
     # Draw the rectangle around each face
     for (x, y, w, h) in faces:
-        cv2.rectangle(img, (x, y), (x+w, y+h), (255, 0, 0), 2)
+        cv2.rectangle(img, (x, y), (x+w, y+h), (0, 255, 0), 2)
     
     # Display
     cv2.imshow('img', img)
