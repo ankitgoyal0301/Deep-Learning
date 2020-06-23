@@ -13,8 +13,9 @@ Currently, it contains the following models:
 - Cats vs Dogs (with Large Dataset)
 - CIFAR-10
 - Face Detection using an Image (here comes OpenCV :wink:)
-- Face Detection using Webcam (run program on local machine rather then Colab)
+- Face Detection using Webcam
 - Hand Written Digit Recognition (Using SVM)
+- Russian License Plate Blurring (OpenCV, Once Again, with a little image processing :wink:)
 
 
 #### Until then, wait for more new models to come up :wink:
