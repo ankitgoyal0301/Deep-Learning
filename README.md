@@ -21,3 +21,9 @@ Currently, it contains the following models:
 
 #### Until then, wait for more new models to come up :wink:
 
+----------
+## FAQs
+
+- #### Unable to load IPYNB files?
+Try this out: [Problem facing at Github ‘.ipynb’ is not loading](https://medium.com/@pg170898/problem-facing-at-github-ipynb-is-not-loading-f986a04649f3)
+
