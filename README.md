@@ -16,8 +16,7 @@ Currently, it contains the following models:
 - Face Detection using Webcam
 - Hand Written Digit Recognition (Using SVM)
 - Russian License Plate Blurring (OpenCV, Once Again, with a little image processing :wink:)
-
-**Face Mask Detector** on it's way :wink::mask:
+- Face Mask Detector :mask:
 
 #### Until then, wait for more new models to come up :wink:
 
